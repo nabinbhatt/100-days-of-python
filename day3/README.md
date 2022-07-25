@@ -1,5 +1,6 @@
-Day 3 of my #100DaysOfCode Journey. Today, I learned about:
--> Conditional Statements
--> Logical Operators
--> Code Blocks and scope
--> Modulo Operator
+# Day 3 | #100DaysOfCode
+Today, I learned about:
+- Conditional Statements
+- Logical Operators
+- Code Blocks and scope
+- Modulo Operator
