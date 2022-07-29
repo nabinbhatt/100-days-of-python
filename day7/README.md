@@ -1,0 +1,2 @@
+# Day 7 | #100DaysOfCode
+Today I learned to make a hangman game and revised everything I learned in earlier days like for loop, while loop, importing modules, if-else statements and more! As a child, when I was in school, I loved playing this game on my mobile phone, today I learned to make it. [Click here to play!](https://replit.com/@nabinbhatt/hangman-game?embed=1&output=1)
