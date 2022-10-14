@@ -10,5 +10,6 @@ This repository is all about my 100 days of python coding journey.
 |  5  | [Python Loops](day5) |
 |  6  | [Python Functions & Karel](day6) |
 |  7  | [Hangman](day7) |
+|  8  | [Function Parameters & Caesar Cipher](day8) |
 
 Credits: [100daysofpython.dev](https://100daysofpython.dev/)
