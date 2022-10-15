@@ -11,5 +11,6 @@ This repository is all about my 100 days of python coding journey.
 |  6  | [Python Functions & Karel](day6) |
 |  7  | [Hangman](day7) |
 |  8  | [Function Parameters & Caesar Cipher](day8) |
+|  9  | [Dictionaries, Nesting and the Secret Auction](day9) |
 
 Credits: [100daysofpython.dev](https://100daysofpython.dev/)
