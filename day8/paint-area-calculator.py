@@ -8,4 +8,4 @@ def paint_calc(height, width, cover):
 h = int(input("Height of wall: "))
 w = int(input("Width of wall: "))
 coverage = 5
-print_calc(height=h, width=w, cover=coverage)
+paint_calc(height=h, width=w, cover=coverage)
