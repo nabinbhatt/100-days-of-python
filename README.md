@@ -12,5 +12,6 @@ This repository is all about my 100 days of python coding journey.
 |  7  | [Hangman](day7) |
 |  8  | [Function Parameters & Caesar Cipher](day8) |
 |  9  | [Dictionaries, Nesting and the Secret Auction](day9) |
+|  10 | [Functions with Outputs](day10) |
 
 Credits: [100daysofpython.dev](https://100daysofpython.dev/)
