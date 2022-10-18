@@ -13,6 +13,7 @@ This repository is all about my 100 days of python coding journey.
 |  8  | [Function Parameters & Caesar Cipher](day8) |
 |  9  | [Dictionaries, Nesting and the Secret Auction](day9) |
 |  10 | [Functions with Outputs](day10) |
-|  11 | [The Blackjack Capstone Project](day11)
+|  11 | [The Blackjack Capstone Project](day11) |
+|  12 | [Scope & Number Guessing Game](day12) |
 
 Credits: [100daysofpython.dev](https://100daysofpython.dev/)
