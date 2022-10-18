@@ -1,9 +1,9 @@
 # Day 12 | #100DaysOfCode
 
 Today, I learned about
-- Namespaces: loval vs. global scope
+- Namespaces: local vs. global scope
 - Modifying a global variable
-- Constants in PYthon
+- Constants in Python
 - And made the final project [Guess The Number](https://replit.com/@nabinbhatt/guess-the-number?output=1&embed=1) Game
 
 ## Local Scope
@@ -33,7 +33,7 @@ def example():
 example()
 ```
 
-## Gloabal Scope
+## Global Scope
 
 A variable created in the main body of the python file belongs to global scope and available from any scope, local and global.
 
