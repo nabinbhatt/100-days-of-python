@@ -16,5 +16,6 @@ This repository is all about my 100 days of python coding journey.
 |  11 | [The Blackjack Capstone Project](day11) |
 |  12 | [Scope & Number Guessing Game](day12) |
 |  13 | [Debugging: How to find & fix errors](day13) |
+|  14 | [Higher Lower Game Project](day14) |
 
 Credits: [100daysofpython.dev](https://100daysofpython.dev/)
